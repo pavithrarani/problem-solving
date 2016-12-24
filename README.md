@@ -5,7 +5,7 @@ Problem solving in various languages like C#, C++.
 | S.No. | Problem | Date | Language| 
 |:------|:--------|:-----|:--------|
 | 1. | [Spiral Matrix](https://github.com/pavithrarani/problem-solving-csharp/blob/master/matrices/matrices/SpiralMatrix.cs)|24/12/2016 |C#|
-| 2. | [Find Point is within the area of triangle](https://github.com/pavithrarani/problem-solving-csharp/blob/master/matrices/matrices/FindPoint.cs)|24/12/2016|C#|
+| 2. | [Find if a point is inside the triangle](https://github.com/pavithrarani/problem-solving-csharp/blob/master/matrices/matrices/FindPoint.cs)|24/12/2016|C#|
 
 ####TODO
 * Given Matrix ,check if diagnal contains same elements.
