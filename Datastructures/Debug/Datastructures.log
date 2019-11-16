@@ -1,0 +1,24 @@
+﻿  findPair.cpp
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xhash(529): error C2100: illegal indirection
+  d:\userdata\z003nscf\documents\visual studio 2015\projects\trystatic\datastructures\findpair.cpp(14): note: see reference to function template instantiation 'void std::_Hash<std::_Umap_traits<_Kty,_Ty,std::_Uhash_compare<_Kty,_Hasher,_Keyeq>,_Alloc,false>>::insert<int>(_Iter,_Iter)' being compiled
+          with
+          [
+              _Kty=int,
+              _Ty=int,
+              _Hasher=std::hash<int>,
+              _Keyeq=std::equal_to<int>,
+              _Alloc=std::allocator<std::pair<const int,int>>,
+              _Iter=int
+          ]
+  d:\userdata\z003nscf\documents\visual studio 2015\projects\trystatic\datastructures\findpair.cpp(14): note: see reference to function template instantiation 'void std::_Hash<std::_Umap_traits<_Kty,_Ty,std::_Uhash_compare<_Kty,_Hasher,_Keyeq>,_Alloc,false>>::insert<int>(_Iter,_Iter)' being compiled
+          with
+          [
+              _Kty=int,
+              _Ty=int,
+              _Hasher=std::hash<int>,
+              _Keyeq=std::equal_to<int>,
+              _Alloc=std::allocator<std::pair<const int,int>>,
+              _Iter=int
+          ]
+  Datastructures.cpp
+  Generating Code...
