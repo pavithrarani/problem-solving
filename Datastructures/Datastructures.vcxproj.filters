@@ -32,8 +32,5 @@
     <ClCompile Include="Datastructures.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="findPair.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
